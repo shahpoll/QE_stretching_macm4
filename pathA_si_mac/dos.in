@@ -1,0 +1,3 @@
+&DOS
+  prefix='si', outdir='./tmp', fildos='si', DeltaE=0.05
+/

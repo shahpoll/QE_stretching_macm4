@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "Path B — fcc Al Equation of State (macOS)"
+message: "Please cite both this dataset/workflow and the underlying software when using these results."
+authors:
+  - family-names: Pollob
+    given-names: User
+  - family-names: ChatGPT Codex
+    given-names: Assistant
+repository-code: https://github.com/USER/REPO
+abstract: |
+  Birch–Murnaghan EOS fit for fcc Al obtained from Quantum ESPRESSO 7.4.1 runs on macOS with PSLibrary PAW pseudopotentials.
+references:
+  - type: software
+    title: "Quantum ESPRESSO 7.4.1"
+    authors:
+      - family-names: Giannozzi
+        given-names: Paolo
+    year: 2020
+    journal: Journal of Chemical Physics
+    volume: 152
+    issue: 15
+    pages: 154105
+    doi: 10.1063/5.0005087
+  - type: article
+    title: "Pseudopotentials periodic table based on the PBE exchange-correlation functional"
+    authors:
+      - family-names: Dal Corso
+        given-names: A.
+    year: 2014
+    journal: Computational Materials Science
+    volume: 95
+    pages: 337-350
+    doi: 10.1016/j.commatsci.2014.07.043

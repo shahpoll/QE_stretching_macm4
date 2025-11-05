@@ -1,0 +1,14 @@
+digraph G {
+  rankdir=LR;
+  node [shape=box, fontname="Helvetica"];
+  A[label="SCF (pw.x) 8x8x8"];
+  B[label="bands (pw.x)"];
+  C[label="bands.x → si.bands.dat"];
+  D[label="NSCF (pw.x) 12x12x12"];
+  E[label="dos.x → si.dos"];
+  F[label="projwfc.x → PDOS"];
+  G[label="Python plots PNG"];
+  A -> B -> C -> G;
+  A -> D -> E -> G;
+  D -> F -> G;
+}

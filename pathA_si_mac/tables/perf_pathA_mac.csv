@@ -1,0 +1,4 @@
+run,ecutwfc,ecutrho,kmesh,wall_s
+1,30,240,8x8x8,0.50
+2,30,240,8x8x8,0.43
+3,30,240,8x8x8,0.43

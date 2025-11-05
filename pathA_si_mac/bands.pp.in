@@ -1,0 +1,3 @@
+&BANDS
+  prefix='si', outdir='./tmp', filband='si'
+/

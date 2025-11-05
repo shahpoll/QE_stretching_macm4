@@ -1,0 +1,13 @@
+# QE scratch / heavy artifacts
+.tmp/
+tmp/
+work/al_scf_*.out
+work/nohup_eos.log
+work/_scales.txt
+work/session.log
+work/*/*.wfc*
+work/*/*.xml
+
+# Python
+__pycache__/
+*.pyc

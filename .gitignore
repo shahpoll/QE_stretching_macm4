@@ -1,0 +1,12 @@
+# Ignore large scratch data and intermediates
+pathC_si_mac/
+**/tmp/
+**/tmp/**
+
+# Wavefunction dumps and large intermediates
+**/*.wfc*
+**/*.chk
+**/*.save/
+
+# Misc
+*.DS_Store

@@ -1,0 +1,3 @@
+&projwfc
+  prefix='si', outdir='./tmp', filpdos='si.pdos', DeltaE=0.05
+/

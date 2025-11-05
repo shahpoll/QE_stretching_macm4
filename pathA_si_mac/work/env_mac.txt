@@ -1,0 +1,9 @@
+[date] 2025-11-05T13:58:56+06:00
+[uname] Darwin Pollobs-Mac-mini.local 24.3.0 Darwin Kernel Version 24.3.0: Thu Jan  2 20:22:58 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T8132 arm64
+[hw]    Apple M4
+[cores] 10
+[qe]    /Users/pollob/opt/qe-7.4.1/bin/pw.x
+
+[python] Python 3.13.7
+[python-platform] macOS-15.3-arm64-arm-64bit-Mach-O
+[pp-sha256] pseudos/Si.pbe-n-rrkjus_psl.1.0.0.UPF 669fb75395a9d26973b0ea1ce8223bbcb30d3396c5d48bf5e794d1243c52375a
